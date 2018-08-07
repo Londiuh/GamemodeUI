@@ -1,1 +1,3 @@
 # GamemodeUI
+
+Nukkit plugin, that allows you to change your game mode in a form, change your game mode quickly and simply
