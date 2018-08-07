@@ -9,7 +9,7 @@
     <version>1</version>
     <build>
         <defaultGoal>install</defaultGoal>
-        <sourceDirectory>${basedir}/scr/main/java</sourceDirectory>
+        <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
