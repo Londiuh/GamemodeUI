@@ -1,0 +1,16 @@
+name: GamemodeUI
+version: "1.0"
+api: ["1.0.0"]
+author: TheLondiux
+main: Londiux.Main
+
+commands:
+  gmf:
+    description: gamemode ui
+    usage: "/gmf"
+    permission: gmf.use
+
+permissions:
+  gmf.use:
+    description: "Allows player to use gamemode form"
+    default: op
